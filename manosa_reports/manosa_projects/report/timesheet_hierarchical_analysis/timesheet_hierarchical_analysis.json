@@ -1,4 +1,5 @@
-{"is_disabled": 0,
+{
+ "is_disabled": 0,
  "disable_prepared_report": 0,
  "add_total_row": 1,
  "add_translate_data": 0,
@@ -78,7 +79,7 @@
  "letter_head": null,
  "modified": "2026-03-24 02:06:40.491266",
  "modified_by": "Administrator",
- "module": "Projects",
+ "module": "Manosa Projects",
  "name": "Timesheet Hierarchical Analysis",
  "owner": "Administrator",
  "prepared_report": 0,
